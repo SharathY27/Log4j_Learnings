@@ -1,0 +1,28 @@
+2023-01-30 13:57:27 INFO  PropertyFileConfiguratorExample:21 - This is an info
+2023-01-30 13:57:27 WARN  PropertyFileConfiguratorExample:22 - This is a warning
+2023-01-30 13:57:27 ERROR PropertyFileConfiguratorExample:23 - This is an error
+2023-01-30 13:57:27 FATAL PropertyFileConfiguratorExample:24 - This is a fatal message
+2023-01-30 14:38:10 INFO  PropertyFileConfiguratorExample:21 - This is an info
+2023-01-30 14:38:10 WARN  PropertyFileConfiguratorExample:22 - This is a warning
+2023-01-30 14:38:10 ERROR PropertyFileConfiguratorExample:23 - This is an error
+2023-01-30 14:38:10 FATAL PropertyFileConfiguratorExample:24 - This is a fatal message
+2023-01-30 14:43:38 INFO  PropertyFileConfiguratorExample:21 - This is an info
+2023-01-30 14:43:38 WARN  PropertyFileConfiguratorExample:22 - This is a warning
+2023-01-30 14:43:38 ERROR PropertyFileConfiguratorExample:23 - This is an error
+2023-01-30 14:43:38 FATAL PropertyFileConfiguratorExample:24 - This is a fatal message
+2023-01-30 14:45:23 INFO  PropertyFileConfiguratorExample:22 - This is an info
+2023-01-30 14:45:23 WARN  PropertyFileConfiguratorExample:23 - This is a warning
+2023-01-30 14:45:23 ERROR PropertyFileConfiguratorExample:24 - This is an error
+2023-01-30 14:45:23 FATAL PropertyFileConfiguratorExample:25 - This is a fatal message
+2023-01-30 15:04:21 INFO  PropertyFileConfiguratorExample:22 - This is an info
+2023-01-30 15:04:21 WARN  PropertyFileConfiguratorExample:23 - This is a warning
+2023-01-30 15:04:21 ERROR PropertyFileConfiguratorExample:24 - This is an error
+2023-01-30 15:04:21 FATAL PropertyFileConfiguratorExample:25 - This is a fatal message
+2023-01-30 15:07:55 INFO  PropertyFileConfiguratorExample:22 - This is an info
+2023-01-30 15:07:56 WARN  PropertyFileConfiguratorExample:23 - This is a warning
+2023-01-30 15:07:56 ERROR PropertyFileConfiguratorExample:24 - This is an error
+2023-01-30 15:07:56 FATAL PropertyFileConfiguratorExample:25 - This is a fatal message
+2023-04-19 11:53:51 INFO  PropertyFileConfiguratorExample:22 - This is an info
+2023-04-19 11:53:51 WARN  PropertyFileConfiguratorExample:23 - This is a warning
+2023-04-19 11:53:51 ERROR PropertyFileConfiguratorExample:24 - This is an error
+2023-04-19 11:53:51 FATAL PropertyFileConfiguratorExample:25 - This is a fatal message

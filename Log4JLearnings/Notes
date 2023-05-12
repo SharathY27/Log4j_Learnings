@@ -1,0 +1,51 @@
+Log4j Notes:
+===========
+
+
+i) What is Logging?
+
+	Logging is the process of writing log messages during the execution of program to a central place
+	
+ii) why do need Logs?
+
+	* If we use System.out.println() statements to print log messages, we can print only on console.
+	* After executing one program when console is closed , we will lose all logs we can't reproduce the same log
+	  after running any other program.
+	* So with help of Log4j (Logger for java) we print/store logs/messages in separate files for each execution
+	
+iii) How can we achieve logging in java?
+		
+		With help of Log4j components
+		
+		Log4j Components:
+		----------------
+		
+		* Logger -> a class inside org.apache.log4j.* package
+					We have to initialize one logger object for each java class.
+					We have logger class methods to indicate log levels.
+					Logger class methods : debug,info,warn,error,fatal.
+					
+		* Appender -> to write messages into a file or DB or SMTP
+					Several types are:
+						a) JDBCAppender
+						b) FileAppender
+						c) ConsoleAppender
+						
+		* Layout -> to define the formatting in which logs will print in repository.
+					a) PatternLayout
+					b) SimpleLayout
+					c) XMLLayout
+					d) HTMLLayout
+					
+					  
+iv) Log4j Priority levels:  debug < info < warn < error < fatal
+
+
+v) Different ways to configure log4j:
+
+	a) Basic configurator
+			-> follows this pattern : "%-4r [%t] %-5p %c %x -%m%n"
+			-> Basic configurator is suitable for tutorials and temporary purpose
+			
+	b) Property File Configurator
+	c) XML configurator (DOMConfigurator)

@@ -1,0 +1,4 @@
+2023-01-30 14:34:19 INFO  XMLConfiguratorExample:15 - This is an info
+2023-01-30 14:34:19 WARN  XMLConfiguratorExample:16 - This is a warning
+2023-01-30 14:34:19 ERROR XMLConfiguratorExample:17 - This is an error
+2023-01-30 14:34:19 FATAL XMLConfiguratorExample:18 - This is a fatal message
